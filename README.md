@@ -26,4 +26,14 @@ HI! I'm just a girl who's trying to be a Web Developer & Designer who loves crea
 
 🆙 Currently Learning & Improving
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haurarawr7&show_icons=true&theme=tokyonight)
+<!-- Menggunakan tema bawaan yang sudah hijau -->
+<!-- GitHub Stats -->
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=haurarawr7&show_icons=true&theme=chartreuse-dark&locale=en"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haurarawr7&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact"/></div>
+
+
+
+
+<!-- Streak Stats -->
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haurarawr7&theme=chartreuse-dark"/></div>
