@@ -24,5 +24,4 @@ HI! I'm just a girl who's trying to be a Web Developer & Designer who loves crea
 
 🆙 Currently Learning & Improving
 
-📈 Statistic
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haurarawr7&show_icons=true&theme=tokyonight)
