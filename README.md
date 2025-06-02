@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Haura Agnia Ramadhani Amnun
-
+## Hi there 👋 I'm Haura Agnia Ramadhani A
+# College Student in Computer Science Education, Universitas Pendidikan Indonesia
 
 <!--
 **Haurarawr7/Haurarawr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
