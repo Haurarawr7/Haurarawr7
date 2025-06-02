@@ -21,6 +21,7 @@ also i like design a lot so i wish i can put my effort to here with many way (us
 HI! I'm just a girl who's trying to be a Web Developer & Designer who loves creating beautiful and functional digital experiences. I enjoy combining technical skills with creative design to build websites and applications that are both visually appealing and user-friendly.
 
 🌱 Currently learning PHP and improving my skills in C, HTML, CSS, JavaScript
+
 🎨 I like design a lot and wish to put my effort here in many ways (i wish can be websites, Games and applications)
 
 🆙 Currently Learning & Improving
