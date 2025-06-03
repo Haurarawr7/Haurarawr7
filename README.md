@@ -24,7 +24,7 @@ HI! I'm just a girl who's trying to be a Fullstack Developer & Designer who love
 
 🎨 I like design a lot and wish to put my effort here in many ways (i wish can be websites, Games and applications)
 
-🆙 Currently Learning & Improving
+"Step by Step to Legendary"
 
 <!-- Menggunakan tema bawaan yang sudah hijau -->
 <!-- GitHub Stats -->
