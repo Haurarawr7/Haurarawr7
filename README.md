@@ -26,7 +26,4 @@ HI! I'm just a girl who's trying to be a Fullstack Developer & Designer who love
 
 "Step by Step to be a Legendary"
 
-<!-- Menggunakan tema bawaan yang sudah hijau -->
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=haurarawr7&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=haurarawr7&theme=chartreuse-dark"/>
