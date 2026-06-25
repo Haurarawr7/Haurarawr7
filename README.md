@@ -18,7 +18,7 @@ also i like design a lot so i wish i can put my effort to here with many way (us
 
 🌸 About Me
 
-HI! I'm just a girl who's trying to be a Fullstack Developer & Designer who loves creating beautiful and functional digital experiences. I enjoy combining technical skills with creative design to build websites and applications that are both visually appealing and user-friendly.
+HI! I'm was a girl who's trying to be a Fullstack Developer & Designer who loves creating beautiful and functional digital experiences. I enjoy combining technical skills with creative design to build websites and applications that are both visually appealing and user-friendly.
 
 🌱 Currently learning C and improving my skills in PHP, HTML, CSS, JavaScript
 
