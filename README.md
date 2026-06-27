@@ -27,6 +27,5 @@ HI! I'm was a girl who's trying to be a Fullstack Developer & Designer who loves
 "Step by Step to be a Legendary"
 
 <!-- GitHub Stats -->
-<img src="https://streak-stats.demolab.com/?user=Haurarawr7&layout=compact&theme=chartreuse-dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haurarawr7&layout=compact&theme=chartreuse-dark" /></a>
+<img src="https://streak-stats.demolab.com/?user=Haurarawr7&layout=compact&theme=chartreuse-dark"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haurarawr7&layout=compact&theme=chartreuse-dark" /></a>
 
